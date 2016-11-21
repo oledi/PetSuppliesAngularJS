@@ -1,0 +1,6 @@
+com\mycompany\angulardemobackend\Klanten.class
+service\ApplicationConfig.class
+service\KlantenFacadeREST.class
+com\mycompany\angulardemobackend\Klanten_.class
+com\mycompany\angulardemobackend\NewCrossOriginResourceSharingFilter.class
+service\AbstractFacade.class
